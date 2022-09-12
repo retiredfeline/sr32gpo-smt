@@ -8,6 +8,8 @@ These are the Kicad design files for the Shift register 32 bit general purpose o
 
 SMT version July 2022
 
+This version is untested, but there have been no changes to the schematic from the THT version.
+
 ## Notes
 
 The minimum lines required to use this board are: GND, SER (data), SRCLK (shift), RCLK (strobe). Vcc depends on the power arrangement. You should jumper the ~OESEL (output enable select) to ground if you don't wish to disable the display by signal, or vary the output with PWM, from a controller. The ~SRCLR input is only needed for resetting the output by the controller.
