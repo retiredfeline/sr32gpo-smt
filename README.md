@@ -6,9 +6,9 @@ These are the Kicad design files for the Shift register 32 bit general purpose o
 
 ## Versioning
 
-SMT version July 2022
+SMT version February 2025
 
-This version is untested, but there have been no changes to the schematic from the THT version.
+This version has been tested after assembly by PCBWay, who I thank for sponsoring a batch. You can find an uploaded project zip in the pcbway directory.
 
 ## Notes
 
